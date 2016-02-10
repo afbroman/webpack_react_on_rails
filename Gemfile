@@ -46,3 +46,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'react_on_rails', '~> 3.0.0.rc.1'
+
+gem 'bootstrap-sass'
